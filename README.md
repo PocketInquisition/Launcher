@@ -3,6 +3,8 @@
 **Dragon Age: Inquisition multiplayer, on servers you run.**
 
 [![Latest release](https://img.shields.io/github/v/release/PocketInquisition/Launcher?include_prereleases&label=release)](https://github.com/PocketInquisition/Launcher/releases)
+[![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-Pocket%20Inquisition-D98F40?logo=nexusmods&logoColor=white)](https://www.nexusmods.com/dragonageinquisition/mods/4679)
+[![Report a bug](https://img.shields.io/badge/Report%20a%20bug-Nexus%20Bugs%20tab-red)](https://www.nexusmods.com/dragonageinquisition/mods/4679?tab=bugs)
 [![Discord](https://img.shields.io/badge/Discord-Dragon%20Age-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/dragonage)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lastlink)
 
@@ -65,6 +67,8 @@ accounts from the web manager at `http://<server>:5380/manage`.
 
 ## Support and community
 
+- **Report a bug:** on the [Bugs tab of the Nexus Mods page](https://www.nexusmods.com/dragonageinquisition/mods/4679?tab=bugs). Please say which version, whether you are hosting or joining, and how players connect (same network, tunnel or ZeroTier). The launcher's Settings page copies the version and commit when you click the version; on Windows, Play, *Open the plugin log* has a Copy button for the plugin log, and a host's server log is on the Live page. Look through a log before you post it: it shows your server address and account name.
+- Mod page, comments and endorsements: [Pocket Inquisition on Nexus Mods](https://www.nexusmods.com/dragonageinquisition/mods/4679)
 - Questions and match-ups: [Dragon Age Discord](https://discord.com/invite/dragonage)
 - Support development: [Buy Me a Coffee](https://buymeacoffee.com/lastlink)
 
